@@ -118,7 +118,7 @@ Tambien únete al equipo de MLSA Community para crear temas y hablar de proyecto
         <a href="https://github.com/daniel692a">
           <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
         </a>
-        <a href="https://www.linkedin.com/in/daniel692a">
+        <a href="https://www.linkedin.com/in/danielarmasrmz">
           <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
         </a>
       </p>
@@ -132,7 +132,7 @@ Tambien únete al equipo de MLSA Community para crear temas y hablar de proyecto
         </a>
       </p>
       <p align="center">
-        Beta Microsoft<br> Learn Student Ambassador<br>
+        Gold Microsoft<br> Learn Student Ambassador<br>
         <br><strong>CDMX, México</strong><br>
         <br>
         <a href="https://github.com/aleepsy">
@@ -241,6 +241,26 @@ Tambien únete al equipo de MLSA Community para crear temas y hablar de proyecto
           <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
         </a>
         <a href="https://www.linkedin.com/in/nicolaschavezc/">
+          <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+        </a>
+      </p>
+    </td>
+    <td>
+      <strong>Ricardo Uribe</strong>
+      <p align="center">
+        <br>
+        <a href="https://twitter.com/_ricardouv">
+          <img src="https://avatars.githubusercontent.com/u/87098001?v=4"  height="120" alt="RicardoUValencia">
+        </a>
+      </p>
+      <p align="center">
+        Beta Microsoft<br> Learn Student Ambassador<br>
+        <br><strong>CDMX, México</strong><br>
+        <br>
+        <a href="https://github.com/RicardoUValencia">
+          <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
+        </a>
+        <a href="https://www.linkedin.com/in/ricardouv/">
           <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
         </a>
       </p>
